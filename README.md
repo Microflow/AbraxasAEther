@@ -1,2 +1,25 @@
 # AbraxasEther
-Experiments in Money Creation
+
+## Experiments in Money Creation
+
+Hey GLP and friends.
+
+Experimenting with money creation now. Trying to figure out Depay Docs now. 
+
+These are very early experiments. 
+
+The aim is to get a fully working codepen up, that non-tech people can fork, and use to receive ETH locally. 
+
+Will use Depay Widgets and openzeppelin wizard. 
+
+
+## LATEST PEN
+
+0.1 - 
+
+Depay very basic widget working. 
+
+https://codepen.io/Teeke/pen/NWYapgG
+
+
+
