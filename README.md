@@ -2,6 +2,10 @@
 
 ## Experiments in Money Creation
 
+### First Test NFT Up
+
+https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/55747053607881944229837233271330947344198313433213101785289800146714575765554/sell
+
 Hey GLP and friends.
 
 Experimenting with money creation now. Trying to figure out Depay Docs now. 
