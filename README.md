@@ -4,12 +4,16 @@
 
 ### DOOZLE TEAL now on Opensea
 
+https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/55747053607881944229837233271330947344198313433213101785289800147814087393780
+
 ### List of FORUMS and Meetups
 
 https://bitcointalk.org/
 https://forum.polygon.technology/latest
 
-### Taipei Ethereum Meetups 
+### LOCAL Taipei Ethereum Meetups 
+
+https://www.facebook.com/eth.taipei
 
 ### Depay Docs
 
