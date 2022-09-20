@@ -14,6 +14,7 @@ https://forum.polygon.technology/latest
 ### LOCAL Taipei Ethereum Meetups 
 
 https://www.facebook.com/eth.taipei
+https://www.meetup.com/Taipei-Ethereum-Meetup/?fbclid=IwAR0FfJg05TI0_NZLeF-d0GTrv-QAavt1yyEP1-K9Z0aD7HPl5fefUn2Acto&_cookie-check=Xm2bSU1Doi_4WR-L
 
 ### Depay Docs
 
