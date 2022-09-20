@@ -28,6 +28,16 @@
 
 If our leadership/energy is interesting to you, you can collect some DOOZLECoin TEAL NFTs.
 
+### Fundraising 
+
+##### Polygon
+
+https://polygon.technology/funds/
+
+##### Ethereum Foundation
+
+https://ethereum.org/en/foundation/#:~:text=About%20the%20Ethereum%20Foundation,even%20a%20traditional%20non%2Dprofit.
+
 ## NFTs for Charity Fundraising 
 
 https://charitydigital.org.uk/topics/topics/nfts-for-good-how-charities-can-fundraise-with-nfts-8899
