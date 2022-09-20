@@ -2,9 +2,10 @@
 
 <h2 align="center"> Experiments in Money Creation</h2>
 
+
 <p align="center">
-<img src="https://i.imgur.com/ERPZHBC.png">
-</p>
+  <img src="https://i.imgur.com/207ipTc.jpeg">?
+  </p>
 
 <p align="center">
 
@@ -24,8 +25,8 @@
 ###### * "I don't know the answer to your question, but I can hire someone who does." *
 
 <p align="center">
-  <img src="https://i.imgur.com/207ipTc.jpeg">?
-  </p>
+<img src="https://i.imgur.com/ERPZHBC.png">
+</p>
 
 If our leadership/energy is interesting to you, you can collect some DOOZLECoin TEAL NFTs.
 
