@@ -13,9 +13,9 @@
 - #### 2. Set up scalable localized farms.
 - #### 3. Set up scalable microfinance software. 
 - #### 4. Design and build houses, villages and town of the future.
-- #### 5. Set up the N-Prize, where we offer small to medium cash prizes for people who can solve local problems. How to make healthy, non-wheat bread. how to provide jobs for local people. How to help the local homeless find work. The N-Prize actualizes the Henry Ford principle:
+- #### 5. Set up the N-Prize, where we offer small to medium cash prizes for people who can solve local problems. The N-Prize actualizes the Henry Ford principle:
 
-* "I don't know the answer to your question, but I can hire someone who does." *
+###### * "I don't know the answer to your question, but I can hire someone who does." *
 
 If our leadership/energy is interesting to you, you can collect some DOOZLECoin TEAL NFTs.
 
