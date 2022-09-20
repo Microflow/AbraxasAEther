@@ -10,9 +10,9 @@
 *Provide us some donations (Collect DOOZLE TEAL), and we will work towards **Five Main Goals:***
 
 - #### 1. Set up scalable trash-collection projects. 300TWD per hour to clean Danshui boardwalk.
-- #### 2. Set up scalable localized farms.
+- #### 2. Set up scalable localized farms. Banana trees, duckweed, alfalfa, and other fast growing sprouts and vegetables. 
 - #### 3. Set up scalable microfinance software. 
-- #### 4. Design and build houses, villages and town of the future.
+- #### 4. Design and build houses, villages and towns of the future. teh city of the future, starts with the house of the future. 
 - #### 5. Set up the N-Prize, where we offer small to medium cash prizes for people who can solve local problems. The N-Prize actualizes the Henry Ford principle:
 
 ###### * "I don't know the answer to your question, but I can hire someone who does." *
@@ -55,7 +55,7 @@ Two separate fundraises makes the process as transparent as possible.
 
 https://bitcointalk.org/
 https://forum.polygon.technology/latest
-
+https://forum.effectivealtruism.org/posts/oqXueeBESjjPb9wvZ/ea-orgs-should-integrate-with-the-giving-block-for
 ### LOCAL Taipei Ethereum Meetups 
 
 https://www.facebook.com/eth.taipei
