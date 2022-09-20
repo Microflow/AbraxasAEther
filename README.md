@@ -6,6 +6,26 @@
 
 https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/55747053607881944229837233271330947344198313433213101785289800147814087393780
 
+### 5 Main Goals
+
+What value do myself and My Family bring to Earth?
+
+- Give me some donations (Buy DOOZLE TEAL), and I will work towards Five Main Goals:
+
+1. Set up scalable trash collection projects.
+2. Set up scalable localized farms.
+3. Set up scalable microfinance software.
+4. Design and build houses, villages and town of the future.
+5. Set up the N Prize, where we offer small to medium cash prizes for people who can solve local problems. This actualizes the Henry Ford principle:
+
+* "I don't know the answer to your question, but I can hire someone who does." *
+
+If my leadership/energy is needed, you can buy some DOOZLECoins.
+
+If not, I will sit under tree and learn The Pogues songs.
+
+Busy learning Opensea and Metamask right now.
+
 ### List of FORUMS and Meetups
 
 https://bitcointalk.org/
