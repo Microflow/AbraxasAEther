@@ -1,11 +1,17 @@
-# Abraxas AEther
+<h1 align="center"> Abraxas AEther </h1>
 
-### Experiments in Money Creation
+<h2 align="center"> Experiments in Money Creation</h2>
+
+<p align="center">
+  <img src="https://i.imgur.com/207ipTc.jpeg">?
+  </p>
+
+<p align="center">
 
 ### [DOOZLE TEAL now on Opensea](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/55747053607881944229837233271330947344198313433213101785289800147814087393780)
+</p>
 
-
-### 5 Main Goals to Help Fix Earth
+<h1 align="center"; font-size="99px";> 5 Main Goals to Help Fix Earth</h1>
 
 *Provide us some donations (Collect DOOZLE TEAL), and we will work towards **Five Main Goals:***
 
@@ -88,3 +94,4 @@ https://codepen.io/Teeke/pen/NWYapgG
 ### First Test NFT Up
 
 https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/55747053607881944229837233271330947344198313433213101785289800146714575765554/sell
+</div>
