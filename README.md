@@ -3,8 +3,8 @@
 <h2 align="center"> Experiments in Money Creation</h2>
 
 <p align="center">
-  <img src="https://i.imgur.com/207ipTc.jpeg">?
-  </p>
+<img src="https://i.imgur.com/ERPZHBC.png">
+</p>
 
 <p align="center">
 
@@ -22,6 +22,10 @@
 - #### 5. Set up the N-Prize, where we offer small to medium cash prizes for people who can solve local problems. The N-Prize actualizes the Henry Ford principle:
 
 ###### * "I don't know the answer to your question, but I can hire someone who does." *
+
+<p align="center">
+  <img src="https://i.imgur.com/207ipTc.jpeg">?
+  </p>
 
 If our leadership/energy is interesting to you, you can collect some DOOZLECoin TEAL NFTs.
 
