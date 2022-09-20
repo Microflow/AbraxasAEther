@@ -18,11 +18,31 @@ https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/55747
 
 * "I don't know the answer to your question, but I can hire someone who does." *
 
-If my leadership/energy is needed, you can buy some DOOZLECoins.
+If my leadership/energy is needed, you can colelct some DOOZLECoin NFTs.
 
-If not, I will sit under tree and learn The Pogues songs.
+## NFTs for Charity Fundraising 
 
-Busy learning Opensea and Metamask right now.
+https://charitydigital.org.uk/topics/topics/nfts-for-good-how-charities-can-fundraise-with-nfts-8899
+
+### 5 Minute NFT Charity Primer
+
+[youtube]https://www.youtube.com/watch?v=wLz7jRO-eDo[/youtube]
+
+### Longer Deep Dive into NFts and charity.
+
+https://www.youtube.com/watch?v=5u2M-Jx8osg
+
+Raise money for each project separately, for extreme transparency and clarity. 
+
+### N-Prize 
+
+For the N-Prize, set up two separate funds: 
+
+##### One for admin-costs (a small amount of money).
+
+##### Two, a larger fund for the N-Prize itself. We will use open source, public accounting.      
+
+ONE HUNDRED PERCENT of N-Prize funds will go towards the recipients, and * none for us * . We will pay minimal admin, development and travel costs with any admin-cost-fund donations. 
 
 ### List of FORUMS and Meetups
 
