@@ -2,15 +2,13 @@
 
 <h2 align="center"> Experiments in Money Creation</h2>
 
-
 <p align="center">
-  <img src="https://i.imgur.com/207ipTc.jpeg">?
+  <img src="https://i.imgur.com/207ipTc.jpeg">
   </p>
 
-<p align="center">
 
-### [DOOZLE TEAL now on Opensea](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/55747053607881944229837233271330947344198313433213101785289800147814087393780)
-</p>
+# [DOOZLE TEAL now on Opensea](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/55747053607881944229837233271330947344198313433213101785289800147814087393780)
+
 
 <h1 align="center"; font-size="99px";> 5 Main Goals to Help Fix Earth</h1>
 
