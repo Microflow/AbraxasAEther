@@ -1,8 +1,9 @@
 ## TODO
 
 - Contact Anthony Diorio
-- - Release a 2 dollar coin. Doozle Red.  
-
+- Release a 2 dollar coin. Doozle Black.  
+- Find Polygon and Ethereum foundations.
+- Go on Bicoin talk...
 
 ### Marketing
 
