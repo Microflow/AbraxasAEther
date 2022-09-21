@@ -8,6 +8,8 @@
 
 https://www.youtube.com/watch?v=kHRplxgywVw
 
+- KEY KEY KEY: Provide value for people. Express that value concisely. 
+- Special treatment for club members. 
 - TEST TEN STRATEGIES: Giveaways, Influencer collabs, Influencer giveaways, Whitelist giveaways, Giveaway on Twitter, Story posts from Influencers, Commemorative art piece for big influencer, hope they retweet it. 
 - Split Testing
 - Double Down on successful strategies
