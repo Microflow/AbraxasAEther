@@ -8,6 +8,7 @@
 
 https://www.youtube.com/watch?v=kHRplxgywVw
 
+- TEST TEN STRATEGIES: Giveaways, Influencer collabs, Influencer giveaways, Whitelist giveaways, Giveaway on Twitter, Story posts from Influencers, Commemorative art piece for big influencer, hope they retweet it. 
 - Split Testing
 - Double Down on successful strategies
 - Best marketing is a banging product. i.e. excellent quality art. There is no substitute for high quality art.  
@@ -17,4 +18,6 @@ https://www.youtube.com/watch?v=kHRplxgywVw
 - You need to be able to explain the project in 2 setences. 
 - There are no marketing secrets. You need solid fundamentals. All techniques are in the open. Tick every box. 
 - Good slogan: "Isnpire the next generation of alpha leaders."   
+- Don't use a copypaste roadmap. 
+- Study "Blockchain Miners" on Twitter . One sentence bio. 
 
