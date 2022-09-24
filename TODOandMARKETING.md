@@ -3,6 +3,8 @@
 - Contact Mandolin Man (Hello Sir, do you think you could teach me to mine Ethereum? Is the hardware expensive?. Thanks, Jake. / Polygon / Anthony Diorio
 - Release a 2 dollar coin. Doozle Black.
 - Write a quick letter to JS. Hi, can't get donation. Exploring two avenues. 
+- Owen colleague letter.
+- Law my declaration.
 
 
 - Find Polygon and Ethereum foundations.
